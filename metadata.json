@@ -1,0 +1,6 @@
+{
+  "name": "Neon Star Defender",
+  "description": "High-octane synthwave arcade shooter featuring numbered asteroid destruction, dynamic power-ups, boss battles, and deep upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
